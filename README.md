@@ -3,7 +3,7 @@ Unsupervised Bootstrapping of Active Learning for Entity Resolution
 
 Code-Dataset-Results for Paper
 
-Unsupervised Bootstrapping of Active Learning for Entity Resolution
+Primpeli, Anna, Christian Bizer, and Margret Keuper. "Unsupervised bootstrapping of active learning for entity resolution." European Semantic Web Conference. Springer, Cham, 2020.
 
 Code:
 Use the Thresholding_Comparison notebook to run the comparison of the different thresholding methods:
